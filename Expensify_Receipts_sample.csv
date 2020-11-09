@@ -1,0 +1,2 @@
+﻿Timestamp,Merchant,Amount,MCC,Category,Tag,Comment,Original Amount,Report,Status,Policy,Submit To,Type,Receipt,file_name,downloaded,year
+2/27/18,Shell,28.15,1234,TVL-Gas,Admin - Office,This is the comment from Expensify,28.15,Weekly Expense Report,Approved,Admin,admin@company.com,employee@company.com 1234,https://s3.amazonaws.com/receipts.expensify.com/e_123456789abcdefghijklmnopqrstuvwxyz.pdf,2018:e_e_123456789abcdefghijklmnopqrstuvwxyz.pdf,TRUE,2018
