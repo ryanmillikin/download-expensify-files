@@ -3,6 +3,10 @@ Short python script to download all receipts for recordkeeping when leaving Expe
 
 I wrote the python script since I am more comfortable with python than command line.
 
+Note that I would go into the CSV and manually update the "Downloaded" parameter if it errored out in the middle of the execution.
+
+This is not a robust solution but provided a quick and dirty way to solve a business problem.
+
 Credit to tullywork on Expensify forum for the idea and instructions below (https://community.expensify.com/discussion/3531/how-do-i-export-download-actual-images-of-receipts-for-document-support-storage):
 
 "Figured this out; hopefully this is helpful to someone else. (note: I'm not a developer or in any way associated w/ expensify); note I did this on a Windows machine.
